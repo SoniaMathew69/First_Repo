@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is F4EC-DACD
+
+ Directory of C:\Users\sandu\Desktop\GitProject
+
+17-12-2020  12:54    <DIR>          .
+17-12-2020  12:54    <DIR>          ..
+17-12-2020  12:54                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  162,933,927,936 bytes free
